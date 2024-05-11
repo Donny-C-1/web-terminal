@@ -1,0 +1,12 @@
+:root {
+    --size: 1;
+}
+
+.command {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.directory {
+    cursor: pointer;
+}
